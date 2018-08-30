@@ -1,0 +1,121 @@
+/* Global */
+html, body {
+    color: #66FCF1;
+    background-color: #1F2833;
+}
+
+
+.prof {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    margin-top: 5px;
+}
+
+/* Navbar */
+.branding {
+    display: inline-block;
+    float:left;
+}
+
+.navv {
+    display: inline-block;
+    margin: 35px 20px 0 20px;
+    float: right;
+    color: #66FCF1;
+}
+
+.pic {
+    clear: both;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.profpic {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    margin: 5% 0 0 0;
+}
+
+.fab, .fas {
+    color: #66FCF1;
+    margin: 15px 30px 15px 30px;
+}
+
+.fab:hover, .fas:hover {
+    color: white;
+}
+
+.foot {
+    margin-top: 65px;
+}
+
+.foot:hover {
+    transition-delay: .1s;
+}
+
+section {
+    width: 100%;
+  padding: 0 7%;
+  display: table;
+  margin: 0;
+  max-width: none;
+  height: 100vh;
+}
+
+.top {
+    margin-top: 30px;
+}
+
+.card {
+    display: inline-block;
+    margin-top: 5%;
+    background-color: #1F2833;
+    border: none;
+}
+
+.aboutme{
+    font-size: 35px;
+}
+
+.aboutme p {
+ padding: 10%;
+ margin: auto;
+}
+
+.skills {
+    color: #00a1ff;
+}
+
+.right {
+    float: right;
+}
+
+a:hover {
+    color: #00a1ff;
+}
+
+.contactp {
+    margin: 10%;
+}
+
+.leftcon, .rightcon {
+    width: 45%;
+    display: inline-block;
+}
+
+.leftcon i {
+    float: right;
+
+
+}
+
+.rightcon h2{
+    margin: 0;
+}
+
+h2 {
+    margin: 0;
+}
+
