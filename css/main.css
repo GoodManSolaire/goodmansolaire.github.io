@@ -118,3 +118,18 @@ h2 {
     margin: 0;
 }
 
+@media only screen and (max-width: 1024px){
+    .second {
+        text-align: center;
+        padding: 0;
+        font-size: 16px;
+    }
+    .card-text {
+        font-size: 12px;
+        text-align:center;
+    }
+    .card{
+       float: none;
+       display: block;
+    }
+}
