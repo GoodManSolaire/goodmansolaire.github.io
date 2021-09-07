@@ -118,6 +118,10 @@ h2 {
     margin: 0;
 }
 
+#sumn {
+    size: 10%;
+}
+
 @media only screen and (max-width: 1024px){
     .second {
         text-align: center;
